@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Lucas
+Build-Jdk: 17.0.8.1
+Implementation-Title: springboot-schema
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.jlwl
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springbootjlvpC
+Created-By: Maven Integration for Eclipse
+
